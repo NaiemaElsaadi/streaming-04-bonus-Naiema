@@ -37,9 +37,10 @@ The provided Python code is a solution designed to streamline the processing of 
 
 1. Run the three python files in the bash:
 in anaconda Prompt (miniconda3) run these: 
-   **python producer.py**
-   **python consumer1.py**
-   **python consumer2.py**
+  1. **python producer.py**
+  2. **python consumer1.py**
+  3. **python consumer2.py**
+
 
    ## Reference
 
@@ -49,12 +50,12 @@ in anaconda Prompt (miniconda3) run these:
 https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
 
 ## The following modules are used in this project:
-csv	
-random	
-signal	
-sys	
-time	
-pika
+<br> csv	
+<br> random	
+<br> signal	
+<br> sys	
+<br> time	
+<br> pika
 
 ## Prerequisites
 <br>Git
