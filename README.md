@@ -40,6 +40,8 @@ in anaconda Prompt (miniconda3) run these:
   1. **python producer.py**
   2. **python consumer1.py**
   3. **python consumer2.py**
+  
+  ![My Screenshot](Bonus4.png)
 
 
    ## Reference
@@ -65,14 +67,14 @@ https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
 <br>RabbitMQ
 
 
-## Screenshot
+## Multiple Terminals Screenshots
 
-
+![My Screenshot](Bonus4.png)
 ![My Screenshot](Bonus.png)
 ![My Screenshot](Bonus1.png)
 ![My Screenshot](Bonus2.png)
 
-## Screenshot
+## RabbitMQ WebInterface screenshot:
 
 ![Streaming in Action](Bonus4_1.png)
 ![Streaming in Action](Bonus4_2.png)
