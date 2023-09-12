@@ -40,7 +40,7 @@ in anaconda Prompt (miniconda3) run these:
   1. **python producer.py**
   2. **python consumer1.py**
   3. **python consumer2.py**
-  
+
   ![My Screenshot](Bonus4.png)
 
 
@@ -69,7 +69,7 @@ https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
 
 ## Multiple Terminals Screenshots
 
-![My Screenshot](Bonus4.png)
+
 ![My Screenshot](Bonus.png)
 ![My Screenshot](Bonus1.png)
 ![My Screenshot](Bonus2.png)
